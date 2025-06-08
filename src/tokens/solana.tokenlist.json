@@ -75,6 +75,15 @@
     },
     {
       "chainId": 101,
+      "address": "GB3wvdWBNSEn9MvMrnEkBJnBDTBADjRWgSqVWPQFePE",
+      "symbol": "SK",
+      "name": "SK Token",
+      "decimals": 9,
+      "logoURI": "https://smyworld.com/sk-token-logo.png",
+      "tags": ["utility-token"]
+    },
+    {
+      "chainId": 101,
       "address": "NGK3iHqqQkyRZUj4uhJDQqEyKKcZ7mdawWpqwMffM3s",
       "symbol": "YAKU",
       "name": "Yaku",
